@@ -1,0 +1,24 @@
+Q1. Word Counter
+Q2. Input : hElLo hOw aRE yOU
+  output : Hello How Are You
+Q3. Input  : Space
+Output
+Space
+paceS
+aceSp
+ceSpa
+eSpac
+Space
+Q4. Input : aeqrhtjhabaaawebagtg
+Output : Highest occur Character
+
+Q5. Palindrome String
+input : nitin
+output : palindrome
+
+Q6. HelloHowAreYou
+Hel
+ell
+llo
+low
+smallest , largest string print in dictionary order
